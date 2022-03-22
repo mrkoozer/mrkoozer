@@ -9,18 +9,18 @@
 💬 About me ... Infrastructure Architect 
  
 Licenses & certifications: 
-Microsoft Certified: Azure Solutions Architect Expert
-Microsoft Certified: Azure Security Engineer Associate
-Microsoft Certified: Azure AI Fundamentals
-AZ-304 Microsoft Azure Architect Design
-AZ-303 Microsoft Azure Architect Technologies
-Microsoft Certified: Azure Administrator Associate 
-Nutanix Certified Professional 5 - Multicloud Infrastructure
-VMware Certified Professional - VCP5-DCVVMware Certified Professional - VCP5-DCV
-VMware Certified Associate – VCAW510 - Workforce Mobility (VCA-WM)
-VMware Certified Associate – VCAC510 – Cloud (VCA-Cloud)
-CompTIA Storage+ Powered by SNIA SG0-001
-CompTIA A+ Essentials 220-701
+*Microsoft Certified: Azure Solutions Architect Expert
+*Microsoft Certified: Azure Security Engineer Associate
+*Microsoft Certified: Azure AI Fundamentals
+*AZ-304 Microsoft Azure Architect Design
+*AZ-303 Microsoft Azure Architect Technologies
+*Microsoft Certified: Azure Administrator Associate 
+*Nutanix Certified Professional 5 - Multicloud Infrastructure
+*VMware Certified Professional - VCP5-DCVVMware Certified Professional - VCP5-DCV
+*VMware Certified Associate – VCAW510 - Workforce Mobility (VCA-WM)
+*VMware Certified Associate – VCAC510 – Cloud (VCA-Cloud)
+*CompTIA Storage+ Powered by SNIA SG0-001
+*CompTIA A+ Essentials 220-701
 
 😄 Pronouns: me, he, him
 
