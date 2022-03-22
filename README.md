@@ -8,7 +8,7 @@
 
 💬 About me ... Infrastructure Architect 
  
-Licenses & certifications: 
+:star: Licenses & certifications: 
 * Microsoft Certified: Azure Solutions Architect Expert
 * Microsoft Certified: Azure Security Engineer Associate
 * Microsoft Certified: Azure AI Fundamentals
@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- emoji cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
