@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on ... all things Azure
 
-💬 About me ... Infrastructure Architect 
+💬 About me ... :cloud: Infrastructure Architect 
  
 :star: Licenses & certifications: 
 * Microsoft Certified: Azure Solutions Architect Expert
@@ -22,7 +22,7 @@
 * CompTIA Storage+ Powered by SNIA SG0-001
 * CompTIA A+ Essentials 220-701
 
-😄 Pronouns: me, he, him
+😄 Pronouns: me, he, him :muscle:
 
 <!--
 **mrkoozer/mrkoozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
