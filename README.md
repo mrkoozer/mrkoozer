@@ -1,5 +1,5 @@
 ### Hi there 👋
-📫 How to reach me: Check me out on LinkedIn: https://www.linkedin.com/in/matt-koozer-7a3a398/
+📫 How to reach me: Check me out on [LinkedIn](https://www.linkedin.com/in/matt-koozer-7a3a398/)
 
 🌱 I’m currently learning "all the things!"
 
